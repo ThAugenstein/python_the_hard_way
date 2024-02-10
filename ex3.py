@@ -1,15 +1,15 @@
-# print a string
+# Print a string
 print("I will now count my chickens:")
 
-# print the number of hens (30.0)
+# Print the number of hens (30.0)
 print("Hens", 25 + 30 / 6)
-# print the number of roosters (97) 3 % 4 is the remainder of 3 divided by 4
+# Print the number of roosters (97) 3 % 4 is the remainder of 3 divided by 4
 print("Roosters", 100 - 25 * 3 % 4)
 
-# print a string
+# Print a string
 print("Now I will count the eggs:")
 
-# print the number of eggs (6.75)
+# Print the number of eggs (6.75)
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 
 # Ask if 4 is less than -2
