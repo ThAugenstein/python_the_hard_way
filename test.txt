@@ -1,3 +1,5 @@
-This is the stuff I typed into a file.
+This is line 1
+This is line 2
+This is line 3
 It is really cool stuff.
 Lots and lots of fun to have in here.
